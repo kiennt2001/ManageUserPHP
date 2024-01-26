@@ -1,0 +1,17 @@
+.mg-form{
+    margin-bottom: 10px;
+}
+
+.mg-btn{
+    margin-top: 10px;
+    width: 25%;
+}
+
+.btn-login{
+    width: 100%;
+}
+.error{
+    color: red;
+    font-size: 70%;
+    font-style: italic;
+}
